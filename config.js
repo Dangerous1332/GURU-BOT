@@ -59,7 +59,7 @@ global.packname = ''-🫂❤‍🩹⏤͟͟͞͞᚜ု᪳ₒ͞₃₄₅ᷤ₅ⷩ�
 
 🩷️🩵⎯⎯→🐼' 
 global.author = '@' 
-global.menuvid = 'https://i.imgur.com/8G8QxUy.mp4'
+global.menuvid = 'https://telegra.ph/file/71bbd47dd991dcc2b3413.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
